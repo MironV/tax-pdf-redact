@@ -1,4 +1,4 @@
-# tax-pdf-redact
+# Tax PDF Redacter
 
 Redact sensitive PII from tax return PDFs so you can safely pass them to AI tools for analysis.
 
